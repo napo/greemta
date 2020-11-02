@@ -12,3 +12,5 @@ intro_image_hide_on_mobile: true
 
 ## First Prize 4.000 Euros!
 ... and many other for a total of **14.000 &euro;**
+
+You are invited to develop applications, interactive websites, visualizations and infographics based on data about trees and green in Madrid but also other indicators.<br/>The goal of the project is to offer insights about how the city of Madrid could improve the management of its green value.
