@@ -21,8 +21,8 @@ $font-family-base: Roboto, Helvetica, Arial, sans-serif, -apple-system;
 $font-family-heading: Roboto,'Playfair Display', sans, -apple-system;
 
 // Footer
-$footer-background-color: $primary;
-$footer-text-color: $white;
+$footer-background-color: $white; // $primary;
+$footer-text-color: $primary; // $white;
 $sub-footer-background-color: darken($primary, 10%);
 $sub-footer-text-color: $white;
 
