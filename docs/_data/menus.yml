@@ -11,7 +11,7 @@ main:
   - name: "Submit"
     url: "/submit/"
     weight: 5
-   - name: "About"
+  - name: "About"
     url: "/about/"
     weight: 6
   - name: "Contact"
