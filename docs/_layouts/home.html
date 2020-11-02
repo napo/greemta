@@ -12,6 +12,9 @@ bodyClass: page-home
         {% if site.homepage.show_call_box %}
           {% include call.html show_button=true %}
         {% endif %}
+        {% if site.homepage.tell_me_more %}
+          <a href="#tellme" class="page-scroll btn btn-xl">Tell Me More</a>
+        {% endif %}
       </div>
       {% if page.intro_image %}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
@@ -22,6 +25,7 @@ bodyClass: page-home
   </div>
 </div>
 
+<section id="tellme">
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
@@ -45,6 +49,7 @@ bodyClass: page-home
     </div>
   </div>
 </div>
+</section>
 
 {% if site.data.features %}
 <div class="strip strip-grey">
