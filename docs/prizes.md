@@ -1,10 +1,7 @@
 ---
 title: Prizes
-layout: content
+layout: page
 description: The prizes
-intro_image: "images/cups.png"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
 ---
 # Prizes
 

@@ -1,6 +1,6 @@
 ---
 title: Greemta Challenge
-layout: content
+layout: page
 description: Submit
 ---
 # Submit

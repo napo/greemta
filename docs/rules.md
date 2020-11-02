@@ -1,6 +1,6 @@
 ---
 title: Rules
-layout: content
+layout: page
 description: Rules
 ---
 # Rules
