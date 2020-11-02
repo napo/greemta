@@ -1,16 +1,22 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Prizes"
+    url: "/prizes/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Rules"
+    url: "/rules/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Data to use"
+    url: "/data/"
     weight: 4
+  - name: "Submit"
+    url: "/submit/"
+    weight: 5
+   - name: "About"
+    url: "/about/"
+    weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 7
 
 footer:
   - name: "Home"
