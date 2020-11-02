@@ -3,8 +3,6 @@ title: Prizes
 layout: page
 description: The prizes
 ---
-# Prizes
-
 A jury will select the 8 best works and award their creators the following prizes:
 
 1st - 4.000 &euro;

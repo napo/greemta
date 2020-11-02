@@ -1,9 +1,8 @@
 ---
-title: Greemta Challenge - dataset
+title: Data to consider
 layout: page
 description: Dataset to use
 ---
-# Dataset to consider
 
 The municipality of Madrid offers a lot of data to start from and, by visiting the [open data portal](https://datos.madrid.es/portal/site/egob/), you can find lots of datasets.
 

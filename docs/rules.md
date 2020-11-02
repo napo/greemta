@@ -3,7 +3,6 @@ title: Rules
 layout: page
 description: Rules
 ---
-# Rules
 how to partecipate
 
 ## Important dates
