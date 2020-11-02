@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="65.788231mm"
-   height="4.6415772mm"
-   viewBox="0 0 65.788232 4.6415772"
+   width="58.478386mm"
+   height="4.125843mm"
+   viewBox="0 0 58.478387 4.125843"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (1.0.1+r73)"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="46.869742"
-     inkscape:cy="129.14626"
+     inkscape:cx="46.992137"
+     inkscape:cy="127.22306"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -55,10 +55,10 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-31.826754,-113.99671)">
+     transform="translate(-31.79437,-114.50556)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="31.535299"
        y="118.57628"
        id="text12"><tspan
@@ -66,8 +66,8 @@
          id="tspan10"
          x="31.535299"
          y="118.57628"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#008000;stroke-width:0.264583">GREEMTA <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#008000;stroke-width:0.264583">GREEMTA <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000"
    id="tspan837">CHALLENGE</tspan></tspan></text>
   </g>
 </svg>
