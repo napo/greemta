@@ -11,6 +11,6 @@ intro_image_hide_on_mobile: true
 *Help improving how **Madrid** manage its green spaces.*
 
 ## First Prize 4.000 Euros!
-... and many other for a total of **14.000 &euro;**
+... and many other for a total of **14.000 &euro;** to distribute between 8 winners.
 
-You are invited to develop applications, interactive websites, visualizations and infographics based on data about trees and green in Madrid but also other indicators.<br/>The goal of the project is to offer insights about how the city of Madrid could improve the management of its green value.
+You are invited to develop applications, interactive websites, visualizations and infographics based on data about trees and green in Madrid but also other indicators.
