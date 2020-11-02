@@ -3,15 +3,7 @@
     <div class="row">
       <div class="col-12">
         <div class="footer-inner">
-          <h3 class="footer-title">{{site.title}}</h3>
-          <ul>
-            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
-            {% for item in footermenu %}
-            <li class="{% if item.url == page.url %}active{% endif %}">
-              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
-            </li>
-            {% endfor %}
-          </ul>
+          <img src="climate_kic.png"/><img src="eit_digital.png"/><img src="fbk.jpg"/><img src="logo-madrid.png"/>
         </div>
       </div>
     </div>
