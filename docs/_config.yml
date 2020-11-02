@@ -5,7 +5,7 @@ title: 'Greemta'
 
 google_analytics_id: ""
 homepage:
-  show_call_box: true
+  show_call_box: false
 logo:
   mobile: "images/logo/logo-mobile.svg"
   desktop: "images/logo/logo.svg"

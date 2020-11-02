@@ -7,8 +7,8 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# A CHALLENGE ON MADRID'S GREEN DATA
-*Help improving how Madrid manage its green spaces.*
+# A GREEN DATA CHALLENGE
+*Help improving how **Madrid** manage its green spaces.*
 
 ## First Prize 4.000 Euros!
 ... and many other for a total of **14.000 &euro;**
