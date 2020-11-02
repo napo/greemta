@@ -2,6 +2,7 @@ baseurl: 'https://napo.github.io/greemta/'
 exclude: ['README.md']
 permalink: pretty
 title: 'Greemta'
+relative_url: 'https://napo.github.io/greemta/'
 
 google_analytics_id: ""
 homepage:
