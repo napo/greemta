@@ -6,7 +6,7 @@ intro_image: "images/rules.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
-
+# Rules
 how to partecipate
 
 ## Important dates
