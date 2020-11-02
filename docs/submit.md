@@ -1,7 +1,6 @@
 ---
-title: Greemta Challenge
+title: Submit
 layout: page
 description: Submit
 ---
-# Submit
 coming soon ...
