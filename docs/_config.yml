@@ -25,7 +25,7 @@ seo:
   meta_twitter_creator: "@greemta"
 
 collections:
-  services:
+  contents:
     output: true
   team:
     output: true
