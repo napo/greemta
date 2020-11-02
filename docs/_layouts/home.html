@@ -53,20 +53,6 @@ bodyClass: page-home
 
 {% if site.data.features %}
 <div class="strip strip-grey">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-center">
-
-      {% for feature in site.data.features %}
-      <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image | relative_url }}" /></div>
-          {% endif %}
-        </div>
-      </div>
-      {% endfor %}
-
-    </div>
-  </div>
+<img src="images/logos/climate_kic.jpg"/>
 </div>
 {% endif %}
