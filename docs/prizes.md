@@ -1,6 +1,6 @@
 ---
 title: Greemta Challenge
-layout: home
+layout: content
 description: The prizes
 intro_image: "images/cups.png"
 intro_image_absolute: true

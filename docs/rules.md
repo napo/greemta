@@ -1,6 +1,6 @@
 ---
 title: Greemta Challenge - Rules
-layout: home
+layout: content
 description: Rules
 intro_image: "images/rules.jpg"
 intro_image_absolute: true
