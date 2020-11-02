@@ -7,6 +7,9 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
+# Rules
+how to partecipate
+
 ## Important dates
 You can submit your work by xx/xx/xxxx
 
