@@ -1,13 +1,11 @@
 ---
-title: Greemta Challenge
+title: Prizes
 layout: content
 description: The prizes
 intro_image: "images/cups.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
-
-# Prizes
 
 A jury will select the 8 best works and award their creators the following prizes:
 
