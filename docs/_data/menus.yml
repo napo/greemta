@@ -6,7 +6,7 @@ main:
     url: "/rules/"
     weight: 3
   - name: "Data to use"
-    url: "/data/"
+    url: "/dataset/"
     weight: 4
   - name: "Submit"
     url: "/submit/"
